@@ -21,3 +21,12 @@ In order to gather information and insights on the issue being faced by the Palm
 i. Calculate the amount to be paid as bonus to individual employees.
 ii. Calculate the total amount to be paid to individual employees (salary inclusive of bonus).
 iii. Calculate the total amount to be paid out per region and company-wide.
+
+## Steps Taken to Provide Answers to the Questions
+1. I was provided with two csv files which I uploaded in Power BI.
+2. I cleaned the datasets using powerquery editor and also built models in order to connect the necessary tables.
+3. I wrote some DAX to provide answers to some questions.
+4. Used appropriate charts to visualize my report.
+
+![power query](https://user-images.githubusercontent.com/109863083/230869573-3b0afdda-a244-4bed-a332-c5471b3e29e4.jpg)
+
