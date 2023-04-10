@@ -45,6 +45,6 @@ This is the powerbi dashboard that I built to provide insights to the questions
 1. Each department needs to be reviewed with a focus on departments with a higher number of a particular gender to ascertain the cause for gender gap.
 2. All regions must be reviewed to identify workers with more than one work locations.
 3. Salaries must also be reviewed across all departments and individual positions to ensure that genders with same department, position, skills are paid equally.
-• Management should ensure to carry out performance appraisal periodically for all employees so as to provide necessary training and development programs to every underperforming employee to give them room for improvement.
-• The new salary regulation to pay employees minimum of $90,000 must also be adopted so also to motivate employees to perform better at their job.
+4. Management should ensure to carry out performance appraisal periodically for all employees so as to provide necessary training and development programs to every underperforming employee to give them room for improvement.
+5. The new salary regulation to pay employees minimum of $90,000 must also be adopted so also to motivate employees to perform better at their job.
 
