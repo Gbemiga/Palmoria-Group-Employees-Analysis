@@ -30,3 +30,21 @@ iii. Calculate the total amount to be paid out per region and company-wide.
 
 ![power query](https://user-images.githubusercontent.com/109863083/230869573-3b0afdda-a244-4bed-a332-c5471b3e29e4.jpg)
 
+## Dashboard
+This is the powerbi dashboard that I built to provide insights to the questions
+![Palmoria ](https://user-images.githubusercontent.com/109863083/230870513-a94721f3-aada-40ed-963e-a2ad46df8d5b.jpg)
+
+## Key Findings
+1. Seven out of total twelve departments which includes Product management, legal, sales, support, training, accounting and marketing has more male employees than female.
+2. The average salary of a male employee is $2,700 higher than a female employee.
+3. Kaduna has more employees (both male and female) compared to other regions hence the highest total salary payout of $27.48m.
+4. Palmoria Group did not meet the new salary regulation to pay $90,000 as the minimum salary to any manufacturing worker as her minimum salary is $28,100 
+5. Male employees in Palmoria group have more poor and very poor ratings than their female counterpart and yet their salary is more than that of females.
+
+## Recommendations
+1. Each department needs to be reviewed with a focus on departments with a higher number of a particular gender to ascertain the cause for gender gap.
+2. All regions must be reviewed to identify workers with more than one work locations.
+3. Salaries must also be reviewed across all departments and individual positions to ensure that genders with same department, position, skills are paid equally.
+• Management should ensure to carry out performance appraisal periodically for all employees so as to provide necessary training and development programs to every underperforming employee to give them room for improvement.
+• The new salary regulation to pay employees minimum of $90,000 must also be adopted so also to motivate employees to perform better at their job.
+
