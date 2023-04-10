@@ -17,7 +17,7 @@ In order to gather information and insights on the issue being faced by the Palm
 - Does Palmoria meet this requirement?
 - Show pay distribution of employees grouped by a band of $10,000. For example: How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000 etc. Also   visualize this by regions.
 
-_Mr Gamma thought to himself that since I was already working on the employee data, I could help out with allocating the annual bonus pay to employees based on the performance rating. He handed another data to me which contains rules for making bonus payments and asked me to_
-5a. calculate the amount to be paid as bonus to individual employees
-b. Calculate the total amount to be paid to individual employees (salary inclusive of bonus)
-c. Total amount to be paid out per region and company-wide
+5. Mr Gamma thought to himself that since I was already working on the employee data, I could help out with allocating the annual bonus pay to employees based on the performance rating. He handed another data to me which contains rules for making bonus payments and asked me to;
+i. Calculate the amount to be paid as bonus to individual employees.
+ii. Calculate the total amount to be paid to individual employees (salary inclusive of bonus).
+iii. Calculate the total amount to be paid out per region and company-wide.
