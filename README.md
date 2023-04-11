@@ -26,7 +26,7 @@ iii. Calculate the total amount to be paid out per region and company-wide.
 1. I was provided with two csv files which I uploaded in Power BI.
 2. I cleaned the datasets using powerquery editor and also built models in order to connect the necessary tables.
 3. I wrote some DAX to provide answers to some questions.
-4. Used appropriate charts to visualize my report.
+4. Used appropriate charts to visualize the report.
 
 ![power query](https://user-images.githubusercontent.com/109863083/230869573-3b0afdda-a244-4bed-a332-c5471b3e29e4.jpg)
 
@@ -46,5 +46,5 @@ This is the powerbi dashboard that I built to provide insights to the questions
 2. All regions must be reviewed to identify workers with more than one work locations.
 3. Salaries must also be reviewed across all departments and individual positions to ensure that genders with same department, position, skills are paid equally.
 4. Management should ensure to carry out performance appraisal periodically for all employees so as to provide necessary training and development programs to every underperforming employee to give them room for improvement.
-5. The new salary regulation to pay employees minimum of $90,000 must also be adopted so also to motivate employees to perform better at their job.
+5. The new salary regulation to pay employees minimum of $90,000 must also be adopted so aso to motivate employees to perform better at their job.
 
