@@ -32,7 +32,9 @@ iii. Calculate the total amount to be paid out per region and company-wide.
 
 ## Dashboard
 This is the powerbi dashboard that I built to provide insights to the questions
-![Palmoria ](https://user-images.githubusercontent.com/109863083/230870513-a94721f3-aada-40ed-963e-a2ad46df8d5b.jpg)
+![Palmoria ](https://user-images.githubusercontent.com/109863083/231413195-6fdd8b2e-fba4-4031-90c2-87ff0a881e5e.jpg)
+
+
 
 ## Key Findings
 1. Seven out of total twelve departments which includes Product management, legal, sales, support, training, accounting and marketing has more male employees than female.
